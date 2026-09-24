@@ -1,4 +1,4 @@
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/74244e67-14ea-4ad4-9a93-3859883aa656" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/74244e67-14ea-4ad4-9a93-3859883aa656" />
 
 
 # CUP Marche Scraper

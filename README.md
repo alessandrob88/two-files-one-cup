@@ -1,3 +1,6 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/74244e67-14ea-4ad4-9a93-3859883aa656" />
+
+
 # CUP Marche Scraper
 
 Bot Node.js che controlla la disponibilita di appuntamenti sul portale CUP Marche e invia una notifica Telegram quando trova risultati.

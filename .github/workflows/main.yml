@@ -1,9 +1,8 @@
 name: Main Workflow
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+  repository_dispatch:
+    types: [start_script]
 
 concurrency:
   group: cup-marche-scraper
